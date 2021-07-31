@@ -1,0 +1,6 @@
+.GraphBackground {
+    background-color: #1d2951;
+    padding: 20px 40px;
+    display: flex;
+    flex-wrap: wrap;
+}

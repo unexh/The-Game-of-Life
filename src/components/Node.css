@@ -1,0 +1,10 @@
+.Node {
+  background-color: #fff;
+  width: 1.6rem;
+  height: 1.6rem;
+  border: 1px white solid;
+  border-radius: 3px;
+  margin: 0.2rem 0.2rem;
+  /* box-shadow: 0 0 60px 20px #fff, 0 0 100px 40px rgb(153, 97, 153),
+    0 0 140px 50px rgb(63, 92, 92); */
+}
